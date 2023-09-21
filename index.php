@@ -59,3 +59,4 @@ if (!empty($_SESSION['cijfers'])) {
 
 </body>
 </html>
+
